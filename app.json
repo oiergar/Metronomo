@@ -7,6 +7,7 @@
     "icon": "./assets/images/icon.png",
     "scheme": "metronomo",
     "userInterfaceStyle": "automatic",
+    "permissions": ["AUDIO_RECORDING"],
     "newArchEnabled": true,
     "ios": {
       "supportsTablet": true
